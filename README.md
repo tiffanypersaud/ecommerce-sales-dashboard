@@ -1,5 +1,9 @@
 # 📊 Ecommerce Sales Analysis
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## 📌 Project Overview
 Interactive Power BI dashboard analyzing e-commerce sales, profit, and margin by category and region.
 
@@ -79,3 +83,11 @@ Power BI was used to visualize findings and create an executive-style dashboard 
 
 ## ✅ Project Outcome
 This project demonstrates end-to-end data analysis skills including SQL querying, business metric evaluation, and dashboard development. The workflow mirrors real-world analyst responsibilities involving data aggregation, KPI calculation, and performance reporting.
+
+## Project Workflow
+
+1. Performed exploratory data analysis in Excel to validate key sales metrics.
+2. Wrote SQL queries to calculate revenue, profit, and margin by category and region.
+3. Imported the data into Power BI for dashboard development.
+4. Created DAX measures to track key performance indicators.
+5. Designed an interactive dashboard to monitor ecommerce sales performance.
